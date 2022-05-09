@@ -1,1 +1,4 @@
-
+/* transition the button's background color */
+button {
+    transition: background-color 2s;
+}
